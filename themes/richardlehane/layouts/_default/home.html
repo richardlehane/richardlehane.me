@@ -1,7 +1,16 @@
 {{ define "main" }}
-  {{ .Content }}
+{{ $image := resources.Get "images/profile.png" }}
+<div class="grid">
+  <div>{{ .Content }}</div>
+  <div>
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+  </div>
+</div>
+<div>
+  <h2>Recent projects</h2>
   {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+  <h3>{{ .LinkTitle }}</h3>
+  {{ .Content }}
   {{ end }}
+</div>
 {{ end }}
