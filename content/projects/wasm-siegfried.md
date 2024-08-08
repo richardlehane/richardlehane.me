@@ -1,6 +1,6 @@
 +++
 title = "WASM build of Siegfried"
-date = 2024-08-07T12:00:00+10:00
+date = 2024-08-06T12:00:00+10:00
 draft = false
 +++
 
