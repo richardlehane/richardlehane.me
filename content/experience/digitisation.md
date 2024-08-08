@@ -1,0 +1,8 @@
++++
+title = "Digitisation"
+date = 2024-08-07T12:00:00+10:00
+draft = false
++++
+
+During my career, I have worked on all sides of digitisation projects. I've advised government agencies on requirements and best practices for the digitisation of official records. As manager of an archives team, I have supervised in-house digitisation projects, setting specifications for the digitisation of paper and photographic material and defining metadata capture and quality assurance processes. Most recently, I’ve worked on a project to wrangle the outputs of outsourced AV digitisation projects, devising strategies for the preservation and control of digital assets.
+

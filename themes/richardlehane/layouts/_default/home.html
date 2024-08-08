@@ -9,9 +9,20 @@
 <hr>
 <div>
   <h2>Recent projects</h2>
-  {{ range site.RegularPages }}
+  {{ with .Site.GetPage "projects" }}
+  {{ range .Pages }}
   <h3>{{ .LinkTitle }}</h3>
   {{ .Content }}
+  {{ end }}
+  {{ end }}
+</div>
+<div>
+  <h2>Skills and experience</h2>
+  {{ with .Site.GetPage "experience" }}
+  {{ range .Pages }}
+  <h3>{{ .LinkTitle }}</h3>
+  {{ .Content }}
+  {{ end }}
   {{ end }}
 </div>
 {{ end }}
