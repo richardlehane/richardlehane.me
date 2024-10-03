@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://richardlehane.me/projects/</loc>
+    <lastmod>2024-10-03T11:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://richardlehane.me/projects/siplicity/</loc>
+    <lastmod>2024-10-03T11:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://richardlehane.me/</loc>
     <lastmod>2024-08-07T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/experience-1/</loc>
+    <loc>https://richardlehane.me/projects/digital-assets-survey/</loc>
     <lastmod>2024-08-07T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://richardlehane.me/experience/digitisation/</loc>
     <lastmod>2024-08-07T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/post-1/</loc>
+    <loc>https://richardlehane.me/experience/</loc>
     <lastmod>2024-08-07T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/post-2/</loc>
-    <lastmod>2024-08-07T12:00:00+10:00</lastmod>
+    <loc>https://richardlehane.me/experience/file-formats/</loc>
+    <lastmod>2024-08-06T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-08-07T12:00:00+10:00</lastmod>
+    <loc>https://richardlehane.me/projects/wasm-siegfried/</loc>
+    <lastmod>2024-08-06T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://richardlehane.me/projects/ai-governance-toolkit/</loc>
+    <lastmod>2024-08-05T12:00:00+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://richardlehane.me/experience/automating-disposal/</loc>
+    <lastmod>2024-08-05T12:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://richardlehane.me/categories/</loc>
+  </url><url>
+    <loc>https://richardlehane.me/tags/</loc>
   </url>
 </urlset>

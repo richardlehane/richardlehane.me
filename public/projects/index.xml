@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Richard Lehane</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://richardlehane.me/projects/</link>
     <description>Recent content in Projects on Richard Lehane</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 12:00:00 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 11:00:00 +1000</lastBuildDate>
+    <atom:link href="https://richardlehane.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siplicity - A digital preservation triage tool</title>
+      <link>https://richardlehane.me/projects/siplicity/</link>
+      <pubDate>Thu, 03 Oct 2024 11:00:00 +1000</pubDate>
+      <guid>https://richardlehane.me/projects/siplicity/</guid>
+      <description>This year I&amp;rsquo;ve been working on a new tool, Siplicity. It is a tool for profiling, analysing, selecting, structuring, describing, and packaging digital files for ingest into a digital repository.</description>
+    </item>
     <item>
       <title>Digital asset survey</title>
-      <link>http://localhost:1313/projects/digital-assets-survey/</link>
+      <link>https://richardlehane.me/projects/digital-assets-survey/</link>
       <pubDate>Wed, 07 Aug 2024 12:00:00 +1000</pubDate>
-      <guid>http://localhost:1313/projects/digital-assets-survey/</guid>
+      <guid>https://richardlehane.me/projects/digital-assets-survey/</guid>
       <description>Digital asset survey for a NSW government agency. Analysed the outputs of a series of outsourced, audio-visual digitisation projects to make recommendations for the control and digital preservation of the assets. The main challenge was to integrate a diverse set of metadata (file system metadata, manifests provided to/ received from the digitisation supplier, catalogue exports) to build an consolidated, inter-linked, and authoritative view of the digitial assets.</description>
     </item>
     <item>
       <title>WASM build of Siegfried</title>
-      <link>http://localhost:1313/projects/wasm-siegfried/</link>
-      <pubDate>Wed, 07 Aug 2024 12:00:00 +1000</pubDate>
-      <guid>http://localhost:1313/projects/wasm-siegfried/</guid>
+      <link>https://richardlehane.me/projects/wasm-siegfried/</link>
+      <pubDate>Tue, 06 Aug 2024 12:00:00 +1000</pubDate>
+      <guid>https://richardlehane.me/projects/wasm-siegfried/</guid>
       <description>Archives NZ sponsored the development of a WASM build for Siegfried, the file format identification tool that I created. This means that Siegfried can be run in a web browser, client-side, and without the need for end-users to install the tool. For more details, see this LinkedIn post.</description>
     </item>
     <item>
       <title>Artificial Intelligence Governance Toolkit</title>
-      <link>http://localhost:1313/projects/ai-governance-toolkit/</link>
+      <link>https://richardlehane.me/projects/ai-governance-toolkit/</link>
       <pubDate>Mon, 05 Aug 2024 12:00:00 +1000</pubDate>
-      <guid>http://localhost:1313/projects/ai-governance-toolkit/</guid>
+      <guid>https://richardlehane.me/projects/ai-governance-toolkit/</guid>
       <description>In collaboration with Recordkeeping Innovation (RKI), I developed an Artificial Intelligence Governance Toolkit. This comprises an AI Governance Maturity Model, risk rating tool, AI systems register, information managers&amp;rsquo; checklist and a model corporate AI policy. More information about RKI&amp;rsquo;s AI governance services is available here.</description>
     </item>
   </channel>
