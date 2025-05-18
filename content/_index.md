@@ -1,10 +1,10 @@
 +++
 title = "About"
-date = 2024-08-07T12:00:00+10:00
+date = 2025-05-18T12:00:00+10:00
 draft = false
 +++
 
-> Seventeen years professional experience in records, information and archives. Specialist in digital
+> Eighteen years professional experience in records, information and archives. Specialist in digital
 > archives and electronic recordkeeping.
 
 Based in Sydney, Australia.

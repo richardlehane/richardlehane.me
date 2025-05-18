@@ -6,14 +6,28 @@
     <description>Recent content in Projects on Richard Lehane</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 11:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 12:00:00 +1000</lastBuildDate>
     <atom:link href="https://richardlehane.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enterprise Information Architecture</title>
+      <link>https://richardlehane.me/projects/enterprise-information-architecture/</link>
+      <pubDate>Sun, 18 May 2025 12:00:00 +1000</pubDate>
+      <guid>https://richardlehane.me/projects/enterprise-information-architecture/</guid>
+      <description>I&amp;rsquo;m working with Recordkeeping Innovation (RKI) on a project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.</description>
+    </item>
     <item>
       <title>Siplicity - A digital preservation triage tool</title>
       <link>https://richardlehane.me/projects/siplicity/</link>
-      <pubDate>Thu, 03 Oct 2024 11:00:00 +1000</pubDate>
+      <pubDate>Sun, 18 May 2025 11:00:00 +1000</pubDate>
       <guid>https://richardlehane.me/projects/siplicity/</guid>
-      <description>This year I&amp;rsquo;ve been working on a new tool, Siplicity. It is a tool for profiling, analysing, selecting, structuring, describing, and packaging digital files for ingest into a digital repository.</description>
+      <description>I&amp;rsquo;m working on a new tool called Siplicity. It is a tool for profiling, analysing, selecting, structuring, describing, and packaging digital files for ingest into a digital repository.</description>
+    </item>
+    <item>
+      <title>Data retention</title>
+      <link>https://richardlehane.me/projects/data-retention/</link>
+      <pubDate>Sat, 17 May 2025 12:00:00 +1000</pubDate>
+      <guid>https://richardlehane.me/projects/data-retention/</guid>
+      <description>I worked on two projects for clients of elevenM relating to the implementation of disposal for datasets within datalakes like Snowflake and Databricks. Unmanaged retention of data can cause privacy and compliance risks. For these projects I developed principles, metadata requirements, and playbooks for disposal.</description>
     </item>
     <item>
       <title>Digital asset survey</title>
