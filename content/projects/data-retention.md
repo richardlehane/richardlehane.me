@@ -1,0 +1,7 @@
++++
+title = "Data retention"
+date = 2025-05-17T12:00:00+10:00
+draft = false
++++
+
+I worked on two projects for clients of [elevenM](https://elevenm.com.au/) relating to the implementation of disposal for datasets within datalakes like Snowflake and Databricks. Unmanaged retention of data can cause privacy and compliance risks. For these projects I developed principles, metadata requirements, and playbooks for disposal.
