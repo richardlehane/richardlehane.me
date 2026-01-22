@@ -20,7 +20,11 @@
       <link>https://richardlehane.me/projects/enterprise-information-architecture/</link>
       <pubDate>Sun, 18 May 2025 12:00:00 +1000</pubDate>
       <guid>https://richardlehane.me/projects/enterprise-information-architecture/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;I worked with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a six-month project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
+=======
+      <description>&lt;p&gt;I&amp;rsquo;m working with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
+>>>>>>> 03697af816969d4f1c1cf206dc93fe8e954e09df
     </item>
     <item>
       <title>Siplicity - A digital preservation triage tool</title>
@@ -76,7 +80,11 @@
       <link>https://richardlehane.me/experience/automating-disposal/</link>
       <pubDate>Mon, 05 Aug 2024 12:00:00 +1000</pubDate>
       <guid>https://richardlehane.me/experience/automating-disposal/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;I&amp;rsquo;ve done pioneering work on the automatic application of retention and disposal rules. I wrote &lt;a href=&#34;https://staterecords.nsw.gov.au/recordkeeping/guidance-and-resources/xml-schema-retention-and-disposal-authorities&#34;&gt;State Records NSW&amp;rsquo;s XML schema for retention and disposal authorities&lt;/a&gt; and created an accompanying desktop drafting application, &lt;a href=&#34;https://authorityeditor.com&#34;&gt;Authority Editor&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;As manager of the Digital Archives team at State Records NSW, I supervised &lt;a href=&#34;https://futureproof.records.nsw.gov.au/case-study-internal-pilot-machine-learning-and-records-management/&#34;&gt;pilot&lt;/a&gt; &lt;a href=&#34;https://futureproof.records.nsw.gov.au/case-study-external-pilot-machine-learning-and-records-management/&#34;&gt;projects&lt;/a&gt; that used machine learning to automatically apply retention rules to a corpus of official records.&lt;/p&gt;</description>
+=======
+      <description>&lt;p&gt;I&amp;rsquo;ve done pioneering work on the automatic application of retention and disposal rules. I wrote &lt;a href=&#34;https://staterecords.nsw.gov.au/recordkeeping/guidance-and-resources/xml-schema-retention-and-disposal-authorities&#34;&gt;State Records NSW&amp;rsquo;s XML schema for retention and disposal authorities&lt;/a&gt; and created an accompanying desktop drafting application, &lt;a href=&#34;http://srnsw.github.io/&#34;&gt;Authority Editor&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;More recently, as manager of the Digital Archives team at State Records NSW, I supervised &lt;a href=&#34;https://futureproof.records.nsw.gov.au/case-study-internal-pilot-machine-learning-and-records-management/&#34;&gt;pilot&lt;/a&gt; &lt;a href=&#34;https://futureproof.records.nsw.gov.au/case-study-external-pilot-machine-learning-and-records-management/&#34;&gt;projects&lt;/a&gt; that used machine learning to automatically apply retention rules to a corpus of official records.&lt;/p&gt;</description>
+>>>>>>> 03697af816969d4f1c1cf206dc93fe8e954e09df
     </item>
   </channel>
 </rss>

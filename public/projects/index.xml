@@ -20,7 +20,11 @@
       <link>https://richardlehane.me/projects/enterprise-information-architecture/</link>
       <pubDate>Sun, 18 May 2025 12:00:00 +1000</pubDate>
       <guid>https://richardlehane.me/projects/enterprise-information-architecture/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;I worked with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a six-month project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
+=======
+      <description>&lt;p&gt;I&amp;rsquo;m working with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
+>>>>>>> 03697af816969d4f1c1cf206dc93fe8e954e09df
     </item>
     <item>
       <title>Siplicity - A digital preservation triage tool</title>
