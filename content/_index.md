@@ -4,7 +4,7 @@ date = 2025-05-18T12:00:00+10:00
 draft = false
 +++
 
-> Eighteen years professional experience in records, information and archives. Specialist in digital
+> Extensive professional experience in records, information and archives. Specialist in digital
 > archives and electronic recordkeeping.
 
 Based in Sydney, Australia.
