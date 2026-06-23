@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://richardlehane.me/projects/enterprise-information-architecture-copy/</loc>
-    <lastmod>2026-01-22T12:00:00+10:00</lastmod>
+    <loc>https://richardlehane.me/projects/archive-management-system/</loc>
+    <lastmod>2026-06-23T12:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://richardlehane.me/projects/business-system-assessments/</loc>
+    <lastmod>2026-06-23T12:00:00+10:00</lastmod>
   </url><url>
     <loc>https://richardlehane.me/projects/</loc>
+    <lastmod>2026-06-23T12:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://richardlehane.me/projects/authority-editor/</loc>
     <lastmod>2026-01-22T12:00:00+10:00</lastmod>
   </url><url>
     <loc>https://richardlehane.me/</loc>

@@ -1,65 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on Richard Lehane</title>
-    <link>https://richardlehane.me/projects/</link>
-    <description>Recent content in Projects on Richard Lehane</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jan 2026 12:00:00 +1000</lastBuildDate>
-    <atom:link href="https://richardlehane.me/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Authority Editor</title>
-      <link>https://richardlehane.me/projects/enterprise-information-architecture-copy/</link>
-      <pubDate>Thu, 22 Jan 2026 12:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/enterprise-information-architecture-copy/</guid>
-      <description>&lt;p&gt;In 2025, I built &lt;a href=&#34;https://authorityeditor.com&#34;&gt;Authority Editor&lt;/a&gt; for State Records NSW. This is an editing tool to create, manage, and transform retention and diposal authorities in XML. Authority Editor reimplements an original version of the tool (that I also wrote), that has been in use at State Records for the last sixteen years. The new version of Authority Editor is distributed as both a native Windows application and an online tool. Both are free to install and use.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enterprise Information Architecture</title>
-      <link>https://richardlehane.me/projects/enterprise-information-architecture/</link>
-      <pubDate>Sun, 18 May 2025 12:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/enterprise-information-architecture/</guid>
-<<<<<<< HEAD
-      <description>&lt;p&gt;I worked with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a six-month project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
-=======
-      <description>&lt;p&gt;I&amp;rsquo;m working with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
->>>>>>> 03697af816969d4f1c1cf206dc93fe8e954e09df
-    </item>
-    <item>
-      <title>Siplicity - A digital preservation triage tool</title>
-      <link>https://richardlehane.me/projects/siplicity/</link>
-      <pubDate>Sun, 18 May 2025 11:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/siplicity/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m working on a new tool called &lt;a href=&#34;https://sipli.city&#34;&gt;Siplicity&lt;/a&gt;. It is a tool for profiling, analysing, selecting, structuring, describing, and packaging digital files for ingest into a digital repository.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data retention</title>
-      <link>https://richardlehane.me/projects/data-retention/</link>
-      <pubDate>Sat, 17 May 2025 12:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/data-retention/</guid>
-      <description>&lt;p&gt;I worked on two projects for clients of &lt;a href=&#34;https://elevenm.com.au/&#34;&gt;elevenM&lt;/a&gt; relating to the implementation of disposal for datasets within datalakes like Snowflake and Databricks. Unmanaged retention of data can cause privacy and compliance risks. For these projects I developed principles, metadata requirements, and playbooks for disposal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digital asset survey</title>
-      <link>https://richardlehane.me/projects/digital-assets-survey/</link>
-      <pubDate>Wed, 07 Aug 2024 12:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/digital-assets-survey/</guid>
-      <description>&lt;p&gt;Digital asset survey for a NSW government agency. Analysed the outputs of a series of outsourced, audio-visual digitisation projects to make recommendations for the control and digital preservation of the assets. The main challenge was to integrate a diverse set of metadata (file system metadata, manifests provided to/ received from the digitisation supplier, catalogue exports) to build an consolidated, inter-linked, and authoritative view of the digitial assets.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WASM build of Siegfried</title>
-      <link>https://richardlehane.me/projects/wasm-siegfried/</link>
-      <pubDate>Tue, 06 Aug 2024 12:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/wasm-siegfried/</guid>
-      <description>&lt;p&gt;Archives NZ sponsored the development of a WASM build for &lt;a href=&#34;https://www.itforarchivists.com/siegfried&#34;&gt;Siegfried&lt;/a&gt;, the file format identification tool that I created. This means that Siegfried can be run in a web browser,  client-side, and without the need for end-users to install the tool. For more details, see this &lt;a href=&#34;https://www.linkedin.com/pulse/siegfried-front-end-richard-lehane-dlvaf&#34;&gt;LinkedIn post&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence Governance Toolkit</title>
-      <link>https://richardlehane.me/projects/ai-governance-toolkit/</link>
-      <pubDate>Mon, 05 Aug 2024 12:00:00 +1000</pubDate>
-      <guid>https://richardlehane.me/projects/ai-governance-toolkit/</guid>
-      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt;, I developed an Artificial Intelligence Governance Toolkit. This comprises an AI Governance Maturity Model, risk rating tool, AI systems register, information managers&amp;rsquo; checklist and a model corporate AI policy. More information about RKI&amp;rsquo;s AI governance services is available &lt;a href=&#34;https://records.com.au/artificial-intelligence-governance/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Projects on Richard Lehane</title>
+		<link>https://richardlehane.me/projects/</link>
+		<description>Recent content in Projects on Richard Lehane</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 23 Jun 2026 12:00:00 +1000</lastBuildDate>
+		
+			<atom:link href="https://richardlehane.me/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Archive Management System review</title>
+				<link>https://richardlehane.me/projects/archive-management-system/</link>
+				<pubDate>Tue, 23 Jun 2026 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/archive-management-system/</guid>
+				<description>&lt;p&gt;Current state review of archive management and digital preservation systems for a regional heritage centre, with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Checklist for assessing business systems</title>
+				<link>https://richardlehane.me/projects/business-system-assessments/</link>
+				<pubDate>Tue, 23 Jun 2026 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/business-system-assessments/</guid>
+				<description>&lt;p&gt;Development of a checklist for assessing business systems for a government recordkeeping regulator, with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Authority Editor</title>
+				<link>https://richardlehane.me/projects/authority-editor/</link>
+				<pubDate>Thu, 22 Jan 2026 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/authority-editor/</guid>
+				<description>&lt;p&gt;In 2025, I re-built &lt;a href=&#34;https://authorityeditor.com&#34;&gt;Authority Editor&lt;/a&gt; for State Records NSW. This is an editing tool to create, manage, and transform retention and diposal authorities in XML. Authority Editor reimplements an original version of the tool (that I also wrote), that has been in use at State Records for the last sixteen years. The new version of Authority Editor is distributed as both a native Windows application and an online tool. Both are free to install and use.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Enterprise Information Architecture</title>
+				<link>https://richardlehane.me/projects/enterprise-information-architecture/</link>
+				<pubDate>Sun, 18 May 2025 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/enterprise-information-architecture/</guid>
+				<description>&lt;p&gt;I worked with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt; on a six-month project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Siplicity - A digital preservation triage tool</title>
+				<link>https://richardlehane.me/projects/siplicity/</link>
+				<pubDate>Sun, 18 May 2025 11:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/siplicity/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m working on a new tool called &lt;a href=&#34;https://sipli.city&#34;&gt;Siplicity&lt;/a&gt;. It is a tool for profiling, analysing, selecting, structuring, describing, and packaging digital files for ingest into a digital repository.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Data retention</title>
+				<link>https://richardlehane.me/projects/data-retention/</link>
+				<pubDate>Sat, 17 May 2025 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/data-retention/</guid>
+				<description>&lt;p&gt;I worked on two projects for clients of &lt;a href=&#34;https://elevenm.com.au/&#34;&gt;elevenM&lt;/a&gt; relating to the implementation of disposal for datasets within datalakes like Snowflake and Databricks. Unmanaged retention of data can cause privacy and compliance risks. For these projects I developed principles, metadata requirements, and playbooks for disposal.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Digital asset survey</title>
+				<link>https://richardlehane.me/projects/digital-assets-survey/</link>
+				<pubDate>Wed, 07 Aug 2024 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/digital-assets-survey/</guid>
+				<description>&lt;p&gt;Digital asset survey for a NSW government agency. Analysed the outputs of a series of outsourced, audio-visual digitisation projects to make recommendations for the control and digital preservation of the assets. The main challenge was to integrate a diverse set of metadata (file system metadata, manifests provided to/ received from the digitisation supplier, catalogue exports) to build an consolidated, inter-linked, and authoritative view of the digitial assets.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>WASM build of Siegfried</title>
+				<link>https://richardlehane.me/projects/wasm-siegfried/</link>
+				<pubDate>Tue, 06 Aug 2024 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/wasm-siegfried/</guid>
+				<description>&lt;p&gt;Archives NZ sponsored the development of a WASM build for &lt;a href=&#34;https://www.itforarchivists.com/siegfried&#34;&gt;Siegfried&lt;/a&gt;, the file format identification tool that I created. This means that Siegfried can be run in a web browser,  client-side, and without the need for end-users to install the tool. For more details, see this &lt;a href=&#34;https://www.linkedin.com/pulse/siegfried-front-end-richard-lehane-dlvaf&#34;&gt;LinkedIn post&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Artificial Intelligence Governance Toolkit</title>
+				<link>https://richardlehane.me/projects/ai-governance-toolkit/</link>
+				<pubDate>Mon, 05 Aug 2024 12:00:00 +1000</pubDate>
+				<guid>https://richardlehane.me/projects/ai-governance-toolkit/</guid>
+				<description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.records.com.au&#34;&gt;Recordkeeping Innovation (RKI)&lt;/a&gt;, I developed an Artificial Intelligence Governance Toolkit. This comprises an AI Governance Maturity Model, risk rating tool, AI systems register, information managers&amp;rsquo; checklist and a model corporate AI policy. More information about RKI&amp;rsquo;s AI governance services is available &lt;a href=&#34;https://records.com.au/artificial-intelligence-governance/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
