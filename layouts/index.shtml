@@ -1,0 +1,27 @@
+<extend template="base.shtml">
+<body id="body">
+	<h1 :text="$site.title"></h1>
+	<h2>Consultant, digital recordkeeping and digital preservation</h2>
+	<div class="grid">
+		<div :html="$page.content()"></div>
+		<div>
+			<img src="$site.asset('profile.png').link()">
+		</div>
+	</div>
+	<hr>
+	<div>
+		<h2>Recent projects</h2>
+		<div :loop="$site.page('projects').subpages()">
+			<h3 :text="$loop.it.title"></h3>
+			<div :html="$loop.it.content()"></div>
+		</div>
+	</div>
+	<hr>
+	<div>
+		<h2>Skills and experience</h2>
+		<div :loop="$site.page('experience').subpages()">
+			<h3 :text="$loop.it.title"></h3>
+			<div :html="$loop.it.content()"></div>
+		</div>
+	</div>
+</body>

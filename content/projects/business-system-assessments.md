@@ -1,7 +1,0 @@
-+++
-title = "Checklist for assessing business systems"
-date = 2026-06-23T12:00:00+10:00
-draft = false
-+++
-
-Development of a checklist for assessing business systems for a government recordkeeping regulator, with [Recordkeeping Innovation (RKI)](https://www.records.com.au). 

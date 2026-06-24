@@ -1,0 +1,9 @@
+---
+.title = "Digital asset survey",
+.date = @date("2024-08-07T12:00:00+10:00"),
+.author = "Richard Lehane",
+.layout = "page.shtml",
+.draft = false,
+---
+
+Digital asset survey for a NSW government agency. Analysed the outputs of a series of outsourced, audio-visual digitisation projects to make recommendations for the control and digital preservation of the assets. The main challenge was to integrate a diverse set of metadata (file system metadata, manifests provided to/ received from the digitisation supplier, catalogue exports) to build an consolidated, inter-linked, and authoritative view of the digitial assets.

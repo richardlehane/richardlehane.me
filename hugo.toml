@@ -1,9 +1,0 @@
-baseURL = 'https://richardlehane.me/'
-languageCode = 'en-us'
-title = 'Richard Lehane'
-theme = 'richardlehane'
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"

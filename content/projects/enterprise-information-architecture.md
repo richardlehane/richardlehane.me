@@ -1,7 +1,0 @@
-+++
-title = "Enterprise Information Architecture"
-date = 2025-05-18T12:00:00+10:00
-draft = false
-+++
-
-I worked with [Recordkeeping Innovation (RKI)](https://www.records.com.au) on a six-month project to develop an Enterprise Information Architecture for a Commonwealth agency. This has involved a current state assessment, assessing their systems and practices for information management, and designing a future state information architecture that addresses their pain points and uplifts their information governance capacity.
