@@ -1,9 +1,7 @@
 ---
 .title = "About",
-.date = @date("2025-05-18T12:00:00+10:00"),
-.author = "Richard Lehane",
+.date = .date("2025-05-18T12:00:00+10:00"),
 .layout = "index.shtml",
-.draft = false,
 ---
 
 > Extensive professional experience in records, information and archives. Specialist in digital

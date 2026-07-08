@@ -1,9 +1,7 @@
 ---
 .title = "Automating disposal",
-.date = @date("2024-08-05T12:00:00+10:00"),
-.author = "Richard Lehane",
+.date = .date("2024-08-05T12:00:00+10:00"),
 .layout = "page.shtml",
-.draft = false,
 ---
 
 I've done pioneering work on the automatic application of retention and disposal rules. I wrote [State Records NSW's XML schema for retention and disposal authorities](https://staterecords.nsw.gov.au/recordkeeping/guidance-and-resources/xml-schema-retention-and-disposal-authorities) and created an accompanying desktop drafting application, [Authority Editor](https://authorityeditor.com).

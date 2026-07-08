@@ -1,9 +1,7 @@
 ---
 .title = "File format analysis",
-.date = @date("2024-08-05T12:00:00+10:00"),
-.author = "Richard Lehane",
+.date = .date("2024-08-05T12:00:00+10:00"),
 .layout = "page.shtml",
-.draft = false,
 ---
 
 I am an expert in identifying and working with legacy file formats. I wrote [Siegfried](https://www.itforarchivists.com/siegfried), a file format identification tool, based on the National Archives' [PRONOM registry](https://nationalarchives.gov.uk/aboutapps/pronom), that is bundled with leading digital preservation systems such as [Archivematica](https://archivematica.org/)
