@@ -1,9 +1,8 @@
 <extend template="base.shtml">
 <body id="body">
-	<h1 :text="$site.title"></h1>
-	<h2>Consultant, digital recordkeeping and digital preservation</h2>
+	<ctx :html="$page.contentSection('headers')"></ctx>
 	<div class="grid">
-		<div :html="$page.content()"></div>
+		<ctx :html="$page.contentSection('bio')"></ctx>
 		<div>
 			<img src="$site.asset('profile.png').link()">
 		</div>

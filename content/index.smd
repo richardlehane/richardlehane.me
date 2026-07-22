@@ -4,6 +4,12 @@
 .layout = "index.shtml",
 ---
 
+[]($section.id('headers'))
+# Richard Lehane
+
+## Consultant, digital recordkeeping and digital preservation
+
+[]($section.id('bio'))
 > Extensive professional experience in records, information and archives. Specialist in digital
 > archives and electronic recordkeeping.
 
